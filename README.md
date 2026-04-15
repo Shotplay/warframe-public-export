@@ -2,7 +2,7 @@
  - `Node.js`
 
 ### **Install:**
- - In your directory `git clone https://github.com/Shotplay/Warframe-public-export.git#build`
+ - In your directory `git clone https://github.com/Shotplay/warframe-public-export.git#build`
  - `cd Warframe-public-export`
  - `npm install --omit=dev`
 
